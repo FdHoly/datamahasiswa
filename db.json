@@ -1,0 +1,39 @@
+{
+    "result": [
+        {
+            "id_survey": "20001",
+            "nomor_id_bdt": "350001",
+            "nama_kepala_rumah_tangga": "Mrs. A",
+            "alamat_rumah": "Jalan Utara",
+            "image": "http://barokah-softdev.com/rest/assets/img/1.jpg"
+        },
+        {
+            "id_survey": "20002",
+            "nomor_id_bdt": "350002",
+            "nama_kepala_rumah_tangga": "Mrs. B",
+            "alamat_rumah": "Jalan Selatan",
+            "image": "http://barokah-softdev.com/rest/assets/img/2.jpg"
+        },
+        {
+            "id_survey": "20003",
+            "nomor_id_bdt": "350003",
+            "nama_kepala_rumah_tangga": "Mrs. C",
+            "alamat_rumah": "Jalan Barat",
+            "image": "http://barokah-softdev.com/rest/assets/img/3.jpg"
+        },
+        {
+            "id_survey": "20004",
+            "nomor_id_bdt": "350004",
+            "nama_kepala_rumah_tangga": "Mrs. D",
+            "alamat_rumah": "Jalan Timur",
+            "image": "http://barokah-softdev.com/rest/assets/img/4.jpg"
+        },
+        {
+            "id_survey": "20005",
+            "nomor_id_bdt": "350005",
+            "nama_kepala_rumah_tangga": "Mrs. E",
+            "alamat_rumah": "Jalan Jalan",
+            "image": "http://barokah-softdev.com/rest/assets/img/5.jpg"
+        }
+    ]
+}
